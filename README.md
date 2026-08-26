@@ -1,7 +1,7 @@
 
 # 🛒 Amazon Clone Website
 
-A front-end clone of the Amazon.com homepage, built from scratch using **HTML5** and **CSS3**. This project was created as a hands-on learning exercise to practice real-world layout techniques such as Flexbox, responsive design principles, and structuring a large multi-section webpage.
+A front-end clone of the Amazon.com homepage, built from scratch using **HTML5** and **CSS3**. This project was created as a hands-on learning exercise to practice real-world layout techniques such as responsive design principles, and structuring a large multi-section webpage.
 
 
 ## 📖 About the Project
@@ -18,9 +18,9 @@ The goal was to strengthen understanding of:
 ## ✨ Features
 
 - Responsive Navbar — Logo, delivery location, search bar with category dropdown, account/orders section, and cart icon
-- **Secondary Navigation Panel** — Quick links (Today's Deal, Customer Service, Registry, etc.)
-- **Hero Banner Section** — Promotional background image with a localized delivery message
-- **Product Category Cards** — Eight categories (Health & Personal Care, Beauty & Makeup, Games & Gadgets, Fashion & Dress, Foods & Grocery, Kids Toys, Kitchen Items, Stationary Items), each with images and a "See More" link
+- Secondary Navigation Panel — Quick links (Today's Deal, Customer Service, Registry, etc.)
+- Hero Banner Section — Promotional background image with a localized delivery message
+- Product Category Cards — Eight categories (Health & Personal Care, Beauty & Makeup, Games & Gadgets, Fashion & Dress, Foods & Grocery, Kids Toys, Kitchen Items, Stationary Items), each with images and a "See More" link
 - Detailed Footer
   - "Back to Top" bar
   - Four-column link section (Get to Know Us, Make Money with Us, Amazon Payment Products, Let Us Help You)
