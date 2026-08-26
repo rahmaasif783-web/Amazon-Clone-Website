@@ -17,11 +17,11 @@ The goal was to strengthen understanding of:
 
 ## ✨ Features
 
-- **Responsive Navbar** — Logo, delivery location, search bar with category dropdown, account/orders section, and cart icon
+- Responsive Navbar — Logo, delivery location, search bar with category dropdown, account/orders section, and cart icon
 - **Secondary Navigation Panel** — Quick links (Today's Deal, Customer Service, Registry, etc.)
 - **Hero Banner Section** — Promotional background image with a localized delivery message
 - **Product Category Cards** — Eight categories (Health & Personal Care, Beauty & Makeup, Games & Gadgets, Fashion & Dress, Foods & Grocery, Kids Toys, Kitchen Items, Stationary Items), each with images and a "See More" link
-- **Detailed Footer**
+- Detailed Footer
   - "Back to Top" bar
   - Four-column link section (Get to Know Us, Make Money with Us, Amazon Payment Products, Let Us Help You)
   - Logo with Language, Currency, and Country selector dropdowns
@@ -32,16 +32,16 @@ The goal was to strengthen understanding of:
 
  Technology :
 
- HTML5 
- CSS3 
+ HTML5 , 
+ CSS3 , 
  Font Awesomes Icons (search, cart, location, menu etc) 
 
 
 
 ## 📌 Notes
 
-This is a static front-end project built purely for learning purposes. It does not include backend functionality, real product data, or working authentication — all buttons and links are for visual/UI practice only.
+This is a static front-end project built purely for learning purposes. It does not include backend functionality, real product data, or working authentication so all buttons and links are for visual/UI practice only.
 
 ## 👩‍💻 Author
 
-Built by **Rahma** as a personal practice project to strengthen HTML & CSS skills.
+Built by Rahma as a personal practice project to strengthen HTML & CSS skills.
