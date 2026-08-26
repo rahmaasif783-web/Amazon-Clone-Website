@@ -45,3 +45,4 @@ This is a static front-end project built purely for learning purposes. It does n
 ## 👩‍💻 Author
 
 Built by Rahma as a personal practice project to strengthen HTML & CSS skills.
+If you want to see live server page only of this website then click here :  https://rahmaasif783-web.github.io/Amazon-Clone-Website/
